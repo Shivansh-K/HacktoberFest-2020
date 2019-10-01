@@ -1,0 +1,7 @@
+import math as m
+r=area=None
+pass
+r=float (input('\n Enter radius =\t'))
+area=m.pi*r**2
+#area=3.14*float(r)*float(r)
+print('\n The area is = \t  ' +  str(area))
