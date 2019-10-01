@@ -1,0 +1,40 @@
+import javax.swing.*;
+import java.awt.*;
+
+class MyForm extends JFrame
+{
+
+		JPanel p;
+		JLabel l1,l2;
+		JTextField t1,t2;
+		JButton b;
+
+	MyForm()
+	{	p=new JPanel();
+		p.setBackground(Color.red);
+		p.setLayout(null);
+		l1=new JLabel("Name: ");
+		l1.setBounds(50,100,100,30);
+		t1=new JTextField();
+		t1.setBounds(100,100,100,30);
+		l2=new JLabel("Email: ");
+		l2.setBounds(50,200,100,30);
+		t2=new JTextField();
+		t2.setBounds(100,200,100,30);
+		b=new JButton("Save");
+		b.setBounds(50,300,100,30);
+		setVisible(true);
+		setSize(300,400);
+		setLocation(500,400);
+		add(p);
+		p.add(l1);
+		p.add(t1);
+		p.add(l2);
+		p.add(t2);
+		p.add(b);
+	}
+	public static void main(String[] args) {
+		new MyForm();
+
+	}
+}
