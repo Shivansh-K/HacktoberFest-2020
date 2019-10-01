@@ -36,3 +36,5 @@ To Contribute in a proper way so that I can merge the pull request:
 
 ### Contributors:
 
+[msafaric](https://https://github.com/msafaric)
+
