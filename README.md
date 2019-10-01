@@ -29,9 +29,6 @@ To Contribute in a proper way so that I can merge the pull request:
 
 [Want more free t-shirts like this one? Check this out!](https://github.com/Joonsang1994/free-tshirts-stickers-and-swag-for-developers)
 
-If you like my work, [please be my patreon](https://www.patreon.com/join/prakashchakraborty?) . It helps me cover costs :smiley:
-
-Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories)
 
 #### Happy Hacktoberfest :tada: :fireworks:
 
