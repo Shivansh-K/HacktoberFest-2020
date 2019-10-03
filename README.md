@@ -36,3 +36,4 @@ To Contribute in a proper way so that I can merge the pull request:
 
 ### Contributors:
 
+* [triyasniko](https://github.com/triyasniko)
