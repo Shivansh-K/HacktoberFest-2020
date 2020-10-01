@@ -1,6 +1,6 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-## Your First Pull Request - Hacktoberfest 2019
+## Your First Pull Request - Hacktoberfest 2020
 I created this project in the spirit of hacktoberfest so that you can do a very simple pull request and in the process you learn how to contribute to a project :smiley:
 
 ### What is Hacktoberfest?
@@ -26,8 +26,6 @@ To Contribute in a proper way so that I can merge the pull request:
 5. Commit with a message. ( Or write "Wakanda Forever!")
 6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 7. Done!
-
-[Want more free t-shirts like this one? Check this out!](https://github.com/Joonsang1994/free-tshirts-stickers-and-swag-for-developers)
 
 
 #### Happy Hacktoberfest :tada: :fireworks:
