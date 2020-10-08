@@ -1,0 +1,8 @@
+class AdditionOfTwoNumbers{
+public static void main(String[]args){
+System.out.println("Enter your first number");
+int a = sc.nextInt;
+System.out.println("Enter your second number");
+int b = sc.nextInt;
+System.out.println("ADDITION IS :" + a+b);
+}}
