@@ -10,7 +10,10 @@ class Main
 		System.out.println("Enter the second side of the rectangle");
 		int b = scan.nextInt();
 		int area=a*b;
+		int fg = a+b;
+		int perimeter = fg*2;
 		System.out.println("Area of the rectangle is "+area);
+		Systme.out.println("Perimeter of the rectangle is " + perimeter);
 
 	}
 }
